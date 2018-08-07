@@ -106,7 +106,6 @@ def get_ods_page_racecourses(url, page_data):
     return ods_page_parameters
 
 
-
 def get_ods_page_race(url, obj_param):
     """
     日にち・競馬場ごとのページから、レースごとの情報を得る
